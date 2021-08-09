@@ -1,0 +1,5 @@
+/* Big O notations of the time complexity of the Bubble sort algorithm */
+
+O(n) /* best case */
+O(n^2) /* average case */
+O(n^2) /* worst case */
