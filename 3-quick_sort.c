@@ -77,5 +77,16 @@ void my_sort(int *array, size_t size, int current, int end)
 
 void quick_sort(int *array, size_t size)
 {
-	my_sort(array, size, 0, size - 1);
+	size_t i;
+
+	int sig = 0;
+
+	for (i = 1; i < size; i++)
+	{
+		if (array[i] != array[0])
+			sig = 1;
+			break;
+	}
+	if (sig == 1)
+		my_sort(array, size, 0, size - 1);
 }
