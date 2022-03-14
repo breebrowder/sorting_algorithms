@@ -1,5 +1,9 @@
 # sorting_algorithms
 
+## Project
+
+1. [Sorting Algorithms & Big O](https://intranet.hbtn.io/projects/1666)
+
 ## General
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 14.04 LTS
@@ -36,3 +40,6 @@ Bree is known for her creativity, organization, and self awareness. Advances in 
 
 ### Email Me
 📩: browder.bree@gmail.com
+
+
+#### Please Note: Some links may be internal and inaccessible to the general public outside of Holberton School students.
